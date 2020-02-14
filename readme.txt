@@ -6,4 +6,6 @@ my stupid boss still prefers SVN.
 
 creating a new branch is  quick and simple.
 
+add merge
+
 20200212 wzq000
